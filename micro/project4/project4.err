@@ -1,0 +1,6 @@
+Warning[207] C:\USERS\J3\DESKTOP\MICRO\PROJECT4\PROJECT4.ASM 34 : Found label after column 1. (RESET)
+Warning[207] C:\USERS\J3\DESKTOP\MICRO\PROJECT4\PROJECT4.ASM 41 : Found label after column 1. (DELAY)
+Warning[207] C:\USERS\J3\DESKTOP\MICRO\PROJECT4\PROJECT4.ASM 42 : Found label after column 1. (VEZES)
+Message[302] C:\USERS\J3\DESKTOP\MICRO\PROJECT4\PROJECT4.ASM 48 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\J3\DESKTOP\MICRO\PROJECT4\PROJECT4.ASM 50 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[202] C:\USERS\J3\DESKTOP\MICRO\PROJECT4\PROJECT4.ASM 78 : Argument out of range.  Least significant bits used.

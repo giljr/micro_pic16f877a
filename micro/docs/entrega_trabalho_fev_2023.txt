@@ -1,0 +1,40 @@
+Prezado Prof. Winston Sen Fung, Esp.
+
+Saudações:
+
+É com muito prazer que envio ao senhor esse trabalho feito no capricho sobre:
+
+Microprocessadores e Microcontroladores
+
+O material é muito bem formulado. O cuidado que se teve com uma das matérias 
+mais importantes da atualidades, é louvável,  visto que já não há mais volta na automatização das
+indústrias, das fazendas e até mesmo das nossas ressidências (com o advento dos avanços em eletronica)
+
+Gostaria de apresentar-me:
+
+Sou afficionado em Arduino, RPI e PIC (Inclusive me formei especialista em PICS pela microgênios)
+
+Visite meus curricula:
+https://medium.com/jungletronics/j3-curricula-56866ad3afde
+
+Se interessar o senhor pode verificar minha preparação ao longo desses anos, que culminaram com a 
+minha vontade de estudar oficialmente e me tornar um Engenheiro da Computação pela UNINTER (2025).
+
+Visite meu Repositório PIC18:
+pic18f Fun Factory Archieve - https://github.com/giljr/pic18f
+
+Edito dois blogs: um apresento meus experimentos em eletrônica com Arduino, RPI e PIC,
+e outro, direcionado às crianças, utilizo-me de LEGO, aplicativos como o MIT.
+
+Visite meus blogs:
+https://medium.com/jungletronics - Arduino, RPI e PIC
+https://medium.com/kidstronics - LEGO e muito mais.
+
+
+Muito obrigado e abraços fraternos.
+
+Gilberto Oliveira Junior
+RU 3326662
+CURSO: ENGENHARIA DA COMPUTAÇÃO
+Escola Superior Politécnica UNINTER
+
